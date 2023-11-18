@@ -13,6 +13,12 @@ Shopping cart abandonment is a common problem faced by e-commerce websites, wher
 
 ⇒ Oversampling using SMOTE: Since the dataset was imbalanced, with a larger number of instances where customers did not abandon their carts, I used SMOTE (Synthetic Minority Over-sampling Technique) to balance the data. This ensured that the model built would not be biased towards one class.
 
-⇒ Model Building: Built a logistic regression model to predict shopping cart abandonment. Logistic regression is a popular machine learning algorithm for binary classification problems, making it a suitable choice for this project.
+⇒ Model Building: Built models using Supervised ML algorithms like Logistic Regression, Support Vector Machine(with rbf kernel), Multi-Layer Perceptron, Ada Boost Technique. 
 
-⇒ Model Evaluation: Finally, evaluated the performance of the model using various performance metrics, such as accuracy, kappa. This helped me to determine how well the model was performing and identify areas for improvement.
+⇒ Model Evaluation: Finally, evaluated the performance of the model using various performance metrics, such as accuracy. This helped me to determine how well the model was performing and identify areas for improvement.
+
+⇒Accuracy of different models are as follows:
+    Logistic Regression     : 98.63
+    Support Vector Machine  : 98.70
+    Multi-Layer Perceptron  : 98.77
+    Ada Boost Classifier    : 98.90
