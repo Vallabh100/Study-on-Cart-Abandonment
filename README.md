@@ -18,7 +18,11 @@ Shopping cart abandonment is a common problem faced by e-commerce websites, wher
 ⇒ Model Evaluation: Finally, evaluated the performance of the model using various performance metrics, such as accuracy. This helped me to determine how well the model was performing and identify areas for improvement.
 
 ⇒Accuracy of different models are as follows:
+
     Logistic Regression     : 98.63
+
     Support Vector Machine  : 98.70
+
     Multi-Layer Perceptron  : 98.77
+
     Ada Boost Classifier    : 98.90
